@@ -1,0 +1,27 @@
+[17-Nov-2015 21:18:47 America/Denver] PHP Notice:  Undefined index: USERNAME in /home7/parveenk/public_html/pkd/1353/index.php on line 14
+[17-Nov-2015 21:20:52 America/Denver] PHP Notice:  Undefined index: USERNAME in /home7/parveenk/public_html/pkd/1353/index.php on line 14
+[17-Nov-2015 21:28:02 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'username'@'localhost' (using password: YES) in /home7/parveenk/public_html/pkd/1353/dbconfig.php on line 6
+[17-Nov-2015 21:29:36 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'username'@'localhost' (using password: YES) in /home7/parveenk/public_html/pkd/1353/dbconfig.php on line 6
+[17-Nov-2015 21:30:32 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'username'@'localhost' (using password: YES) in /home7/parveenk/public_html/pkd/1353/dbconfig.php on line 6
+[17-Nov-2015 21:31:19 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'username'@'localhost' (using password: YES) in /home7/parveenk/public_html/pkd/1353/dbconfig.php on line 6
+[17-Nov-2015 21:31:26 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'username'@'localhost' (using password: YES) in /home7/parveenk/public_html/pkd/1353/dbconfig.php on line 6
+[17-Nov-2015 21:31:48 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'username'@'localhost' (using password: YES) in /home7/parveenk/public_html/pkd/1353/dbconfig.php on line 6
+[17-Nov-2015 21:31:48 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'username'@'localhost' (using password: YES) in /home7/parveenk/public_html/pkd/1353/dbconfig.php on line 6
+[17-Nov-2015 21:31:59 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'username'@'localhost' (using password: YES) in /home7/parveenk/public_html/pkd/1353/dbconfig.php on line 6
+[17-Nov-2015 21:33:12 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'username'@'localhost' (using password: YES) in /home7/parveenk/public_html/pkd/1353/dbconfig.php on line 6
+[17-Nov-2015 21:33:51 America/Denver] PHP Notice:  Undefined index: USERNAME in /home7/parveenk/public_html/pkd/1353/index.php on line 14
+[17-Nov-2015 21:33:53 America/Denver] PHP Notice:  Undefined index: USERNAME in /home7/parveenk/public_html/pkd/1353/index.php on line 14
+[17-Nov-2015 21:34:01 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'username'@'localhost' (using password: YES) in /home7/parveenk/public_html/pkd/1353/dbconfig.php on line 6
+[17-Nov-2015 21:34:49 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'username'@'localhost' (using password: YES) in /home7/parveenk/public_html/pkd/1353/dbconfig.php on line 6
+[17-Nov-2015 21:35:14 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'username'@'localhost' (using password: YES) in /home7/parveenk/public_html/pkd/1353/dbconfig.php on line 6
+[17-Nov-2015 21:36:10 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'username'@'localhost' (using password: YES) in /home7/parveenk/public_html/pkd/1353/dbconfig.php on line 6
+[17-Nov-2015 21:37:19 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'username'@'localhost' (using password: YES) in /home7/parveenk/public_html/pkd/1353/dbconfig.php on line 6
+[17-Nov-2015 21:38:48 America/Denver] PHP Notice:  Undefined index: USERNAME in /home7/parveenk/public_html/pkd/1353/index.php on line 14
+[17-Nov-2015 21:39:01 America/Denver] PHP Notice:  Undefined index: USERNAME in /home7/parveenk/public_html/pkd/1353/index.php on line 14
+[17-Nov-2015 21:39:16 America/Denver] PHP Notice:  Undefined index: USERNAME in /home7/parveenk/public_html/pkd/1353/index.php on line 14
+[17-Nov-2015 21:39:35 America/Denver] PHP Notice:  Undefined index: USERNAME in /home7/parveenk/public_html/pkd/1353/index.php on line 14
+[17-Nov-2015 21:40:27 America/Denver] PHP Notice:  Undefined index: USERNAME in /home7/parveenk/public_html/pkd/1353/index.php on line 14
+[17-Nov-2015 21:40:33 America/Denver] PHP Notice:  Undefined index: USERNAME in /home7/parveenk/public_html/pkd/1353/index.php on line 14
+[17-Nov-2015 21:40:48 America/Denver] PHP Notice:  Undefined index: USERNAME in /home7/parveenk/public_html/pkd/1353/index.php on line 14
+[17-Nov-2015 21:45:24 America/Denver] PHP Notice:  Undefined index: USERNAME in /home7/parveenk/public_html/pkd/facebook/index.php on line 14
+[17-Nov-2015 21:48:25 America/Denver] PHP Notice:  Undefined index: USERNAME in /home7/parveenk/public_html/pkd/facebook/index.php on line 14
