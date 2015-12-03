@@ -3,7 +3,7 @@
 
 ##Description
 
-Using the various lab exercises done so far during the semester, each of the group member has successfully "opened" up his/her own web company. As a group, all of the members worked together and formed an online market place. The oneline market place contains web sites from all the group members' companies, and it provides the following functionalities:
+Using the various lab exercises done so far during the semester, each of the group member has successfully "opened" up his/her own web company. As a group, all of the members worked together and formed an online market place. The online market place contains web sites from all the group members' companies, and it provides the following functionalities:
 
 ## List of functionalities:
 
