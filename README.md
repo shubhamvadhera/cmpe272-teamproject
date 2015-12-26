@@ -76,6 +76,6 @@ Using the various lab exercises done so far during the semester, each of the gro
     * “Our Vendors” shows automatically scrolling photos and description
     * “Product Visit statistics” and “Rating statistics” graphs are downloadable in PNG, PDF, JPG, SVEG format. Click on = to download the graph.
 
-####Contributors:
+####Website Contributors:
 
 Waad Aljaradt, Sneha Jain, Joji Kubota, Parveen Kumar, Vishwas Mukund, Shubham Vadhera
