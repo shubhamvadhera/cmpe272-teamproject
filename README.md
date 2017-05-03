@@ -1,7 +1,7 @@
 # CMPE 272 Team Project
-####This is the code for the website hosted at http://vishwasmukund.com/marketplace/
+#### This is the code for the website hosted at http://vishwasmukund.com/marketplace/
 
-##Description
+## Description
 
 Using the various lab exercises done so far during the semester, each of the group member has successfully "opened" up his/her own web company. As a group, all of the members worked together and formed an online market place. The online market place contains web sites from all the group members' companies, and it provides the following functionalities:
 
@@ -48,7 +48,7 @@ Using the various lab exercises done so far during the semester, each of the gro
       * Go to any of the market/vendors under our Portfolio
       * Login screen asks for login credentials
 
-###Extra Features:
+### Extra Features:
 
   1. Multiple ways of top five - Top products as per rating as well as reviews
     * Go to Rating Statistics
@@ -76,6 +76,6 @@ Using the various lab exercises done so far during the semester, each of the gro
     * “Our Vendors” shows automatically scrolling photos and description
     * “Product Visit statistics” and “Rating statistics” graphs are downloadable in PNG, PDF, JPG, SVEG format. Click on = to download the graph.
 
-####Website Contributors:
+#### Website Contributors:
 
 Waad Aljaradt, Sneha Jain, Joji Kubota, Parveen Kumar, Vishwas Mukund, Shubham Vadhera
